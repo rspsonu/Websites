@@ -1,0 +1,91 @@
+@keyframes anime1 {
+  50% {color: #ecf0f1;}
+}
+body {
+  background-color: #2c3e50;
+}
+#unlocker div {
+  color: #7f8c8d;
+  font-family: helvetica;
+  animation-name: anime1;
+  animation-iteration-count: infinite;
+  animation-duration: 9s;
+  animation-timing-function: ease;
+}
+#unlocker div:nth-child(1) {
+  position: absolute;
+  top: 280px;
+  left: 613px;
+}
+#unlocker div:nth-child(2) {
+  position: absolute;
+  top: 280px;
+  left: 623px;
+  animation-delay: 0.76s;
+}
+#unlocker div:nth-child(3) {
+  position: absolute;
+  top: 280px;
+  left: 626px;
+  animation-delay: 1.53s;
+}
+#unlocker div:nth-child(4) {
+  position: absolute;
+  top: 280px;
+  left: 629px;
+  animation-delay: 2.29s;
+}
+#unlocker div:nth-child(5) {
+  position: absolute;
+  top: 280px;
+  left: 637px;
+  animation-delay: 3.05s;
+}
+#unlocker div:nth-child(6) {
+  position: absolute;
+  top: 280px;
+  left: 649px;
+  animation-delay: 3.81s;
+}
+#unlocker div:nth-child(7) {
+  position: absolute;
+  top: 280px;
+  left: 653px;
+  animation-delay: 4.57s;
+}
+#unlocker div:nth-child(8) {
+  position: absolute;
+  top: 280px;
+  left: 665px;
+  animation-delay: 5.33s;
+}
+#unlocker div:nth-child(9) {
+  position: absolute;
+  top: 280px;
+  left: 673px;
+  animation-delay: 5.985s;
+}
+#unlocker div:nth-child(10) {
+  position: absolute;
+  top: 280px;
+  left: 681px;
+  animation-delay: 6.85s;
+}
+#unlocker div:nth-child(11) {
+  position: absolute;
+  top: 280px;
+  left: 684px;
+  animation-delay: 7.61s;
+}
+#unlocker div:nth-child(12) {
+  position: absolute;
+  top: 280px;
+  left: 692px;
+  animation-delay: 8.37s;
+}
+#unlocker div:nth-child(13) {
+  position: absolute;
+  top: 280px;
+  left: 700px;
+  animation-delay: 9.14s;
+}
